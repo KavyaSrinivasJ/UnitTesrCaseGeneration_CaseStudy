@@ -1,0 +1,15 @@
+C:\Users\kavya.s\Desktop\reactjs\demo backend\TestCase\TestCase\obj\Release\net8.0\PubTmp\Out\TestCase.exe
+C:\Users\kavya.s\Desktop\reactjs\demo backend\TestCase\TestCase\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\kavya.s\Desktop\reactjs\demo backend\TestCase\TestCase\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\kavya.s\Desktop\reactjs\demo backend\TestCase\TestCase\obj\Release\net8.0\PubTmp\Out\TestCase.dll
+C:\Users\kavya.s\Desktop\reactjs\demo backend\TestCase\TestCase\obj\Release\net8.0\PubTmp\Out\TestCase.deps.json
+C:\Users\kavya.s\Desktop\reactjs\demo backend\TestCase\TestCase\obj\Release\net8.0\PubTmp\Out\TestCase.runtimeconfig.json
+C:\Users\kavya.s\Desktop\reactjs\demo backend\TestCase\TestCase\obj\Release\net8.0\PubTmp\Out\TestCase.pdb
+C:\Users\kavya.s\Desktop\reactjs\demo backend\TestCase\TestCase\obj\Release\net8.0\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kavya.s\Desktop\reactjs\demo backend\TestCase\TestCase\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\kavya.s\Desktop\reactjs\demo backend\TestCase\TestCase\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\kavya.s\Desktop\reactjs\demo backend\TestCase\TestCase\obj\Release\net8.0\PubTmp\Out\OpenAI_API.dll
+C:\Users\kavya.s\Desktop\reactjs\demo backend\TestCase\TestCase\obj\Release\net8.0\PubTmp\Out\OpenAI.API.dll
+C:\Users\kavya.s\Desktop\reactjs\demo backend\TestCase\TestCase\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kavya.s\Desktop\reactjs\demo backend\TestCase\TestCase\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kavya.s\Desktop\reactjs\demo backend\TestCase\TestCase\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
